@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "170459472876",
+    "project_id": "indriver-app-flutter",
+    "storage_bucket": "indriver-app-flutter.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:170459472876:android:e92c05f55f3ef968a516c9",
+        "android_client_info": {
+          "package_name": "com.example.indriver_clone_flutter"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAEBKh6S3ST0gX1Bk7TQsU5YYE76pxxaTQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,10 @@
+enum StatusTrip {
+  CREATED,
+  ACCEPTED,
+  ON_THE_WAY,
+  ARRIVED,
+  TRAVELLING,
+  FINISHED,
+  CANCEL
+}
+
